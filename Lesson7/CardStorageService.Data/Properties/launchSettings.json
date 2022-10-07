@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CardStorageService.Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
